@@ -1,0 +1,7 @@
+# t and (f or t)
+# not (t xor f) or (f and t )
+# (2 < 3) and (-1 or 0)
+# 0 xor (1 and not f)
+# not (t -> f) and (t -> t) 
+# (0 -> 1) xor (not (1 -> 0))
+# (t or f) and (f or t) xor (not f)
